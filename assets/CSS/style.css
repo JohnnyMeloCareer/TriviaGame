@@ -48,3 +48,7 @@ li {
     text-align: left;
     color: #ffffff;
 }
+
+#scoreBoard {
+    display: none;
+}
