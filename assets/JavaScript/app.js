@@ -65,3 +65,5 @@ var questions;
 for (i = 0; i < questions.length; i++) { 
 
 }
+
+questions[i]['prompt']
