@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+    background-image: url(../Images/TriviaGameImage\ BG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+html {
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color:white;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+#secondBox {
+    background-image: url(../Images/Question\ Card\ Splatoon.png);
+    width:  auto;
+    height: 400px;
+    text-align: center;
+}
